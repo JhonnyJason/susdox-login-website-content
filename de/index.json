@@ -1,0 +1,22 @@
+{
+    "languageTag": "de",
+    "pageTitle": "SusDox Login - Radiologische Bilder und Befunde sicher online einsehen",
+    "pageLocale": "de_DE",
+    "pageURL": "https://bilder-befunde.at",
+    "pageDescription": "SusDox übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+    "pageImageURL": "https://bilder-befunde.at/img/icon.png",
+    "pageType": "website",
+    "sharedContent": {
+        "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://bilder-befunde.at/agb.pdf" target="_blank">AGB</a> | <a href="https://www.sustsol.com/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a>'
+    },
+    "content": {
+        "headerSubtitle": "Bilder und Befunde Online",
+        "contentTilteText": "Finden Sie hier Ihre Bilder & Befunde",
+        "doctorsLoginButtonText": "Zugang für Ärzte & Krankenhäuser",
+        "patientsLoginButtonText":"Zugang für Patienten",
+        "supportButtonText": "Support",
+        "doctorsLoginTitle": "Zugang für Ärzte & Krankenhäuser",
+        "doctorsLoginSubtitle": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen."
+    }
+}
