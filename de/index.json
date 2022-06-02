@@ -12,7 +12,10 @@
     },
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
-        "contentTilteText": "Finden Sie hier Ihre Bilder & Befunde",
+        "deTagLink": '<a href="/de/">DE</a>',
+        "enTagLink": '<a href="/en/">EN</a>',
+
+        "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
         "doctorsLoginButtonText": "Zugang für Ärzte & Krankenhäuser",
         "patientsLoginButtonText":"Zugang für Patienten",
         "supportButtonText": "Support",
