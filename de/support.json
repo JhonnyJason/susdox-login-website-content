@@ -7,6 +7,8 @@
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
+        "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://bilder-befunde.at/agb.pdf" target="_blank">AGB</a> | <a href="https://www.sustsol.com/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a>'
     },
@@ -15,7 +17,21 @@
         "deTagLink": '<a href="/de/support.html">DE</a>',
         "enTagLink": '<a href="/en/support.html">EN</a>',
 
-        "contentTilteText": "",
-        "registrationButtonText": "Registrierung für Ärzte"
+        "registrationButtonText": "Registrierung für Ärzte",
+
+        "registrationHeadingText": "Hier Registrieren",
+        "registrationTitleLableText": "Titel:",
+        "registrationFirstnameLableText": "Name*:",
+        "registrationLastnameLableText": "Nachname*:",
+        "registrationAddressLableText": "Adresse*:",
+        "registrationPLZLableText": "PLZ Ort*:",
+        "registrationEmailLableText": "E-Mail*:",
+        "registrationFaxLableText": "Fax:",
+        "registrationContactFaxLableText":"Ich bitte um meine Zugangsdaten per Fax!",
+        "registrationPhoneLableText": "Telefon:",
+        "registrationContactPhoneLableText": "Ich bitte um einen Rückruf!",
+        "registrationSubmitButtonText": "Registrieren",
+
+        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="/agb.pdf" target="_blank">AGB</a> und die <a href="/nutzungsbedingungen.pdf" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
     }
 }

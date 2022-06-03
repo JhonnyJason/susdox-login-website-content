@@ -7,7 +7,7 @@
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="/agb.pdf" target="_blank">AGB</a> und die <a href="/nutzungsbedingungen.pdf" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!',
+        "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://bilder-befunde.at/agb.pdf" target="_blank">AGB</a> | <a href="https://www.sustsol.com/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a>'
     },
@@ -17,7 +17,6 @@
         "enTagLink": '<a href="/en/">EN</a>',
 
         "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
-        "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
         "doctorsLoginButtonText": "Zugang für Ärzte & Krankenhäuser",
         "patientsLoginButtonText":"Zugang für Patienten",
         "supportButtonText": "Support",
@@ -49,7 +48,9 @@
         "nosvnLoginBirthdayLabelText": "Geburtsdatum",
         "nosvnLoginAuthcodeLabelText": "AUTH-Code",
         "nosvnLoginSubmitButtonText": "Anmelden",
-        "nosvnLoginNoAuthcodeHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut."
+        "nosvnLoginNoAuthcodeHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
+
+        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="/agb.pdf" target="_blank">AGB</a> und die <a href="/nutzungsbedingungen.pdf" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
 
     }
 }
