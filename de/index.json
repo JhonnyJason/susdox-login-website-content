@@ -7,6 +7,7 @@
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
+        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="/agb.pdf" target="_blank">AGB</a> und die <a href="/nutzungsbedingungen.pdf" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!',
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://bilder-befunde.at/agb.pdf" target="_blank">AGB</a> | <a href="https://www.sustsol.com/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a>'
     },
@@ -16,10 +17,22 @@
         "enTagLink": '<a href="/en/">EN</a>',
 
         "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
+        "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
         "doctorsLoginButtonText": "Zugang für Ärzte & Krankenhäuser",
         "patientsLoginButtonText":"Zugang für Patienten",
         "supportButtonText": "Support",
-        "doctorsLoginTitle": "Zugang für Ärzte & Krankenhäuser",
-        "doctorsLoginSubtitle": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen."
+    
+        "doctorloginHeadingText": "Login als Arzt",
+        "doctorloginVPNLabelText": "Vertragspartnernummer",
+        "doctorloginUsernameLabelText": "Username",
+        "doctorloginPasswordLabelText": "Passwort",
+        "doctorloginSaveLoginLabelText": "Zugang speichern",
+        "doctorloginSubmitButtonText": "Anmelden",
+
+        "doctormiscHeadingText": "Login als Arzt mit Patientenzugang",
+        "doctormiscHintText": "Als Arzt habe ich noch keine Zugangsdaten (Username und Passwort) und möchte mit einem <b>PIN/AUTH-CODE</b> des Patienten die Untersuchungen einsehen.",
+        "doctormiscContinueText": "Anmelden",
+        "doctormiscNoLoginDataText": "Als Arzt habe ich noch keine Zugangsdaten erhalten oder derzeit nicht parat?",
+        "doctormiscGetLoginDataLinkText": "Jetzt Anfordern!"
     }
 }
