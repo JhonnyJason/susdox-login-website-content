@@ -13,8 +13,8 @@
     },
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
-        "deTagLink": '<a href="/de/">DE</a>',
-        "enTagLink": '<a href="/">EN</a>',
+        "deTagLink": '<a href="https://susdox-login-dev.extensivlyon.coffee/">DE</a>',
+        "enTagLink": '<a href="https://susdox-login-en-dev.extensivlyon.coffee/">EN</a>',
 
         "contentTitleText": "Find your images and reports here",
         "doctorsLoginButtonText": "Access for Doctors and Hospitals",

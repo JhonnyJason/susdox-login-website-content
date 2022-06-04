@@ -14,8 +14,8 @@
     },
     "content": {
         "headerSubtitle": "Support",
-        "deTagLink": '<a href="/">DE</a>',
-        "enTagLink": '<a href="/en/support.html">EN</a>',
+        "deTagLink": '<a href="https://susdox-login-dev.extensivlyon.coffee/support.html">DE</a>',
+        "enTagLink": '<a href="https://susdox-login-en-dev.extensivlyon.coffee/support.html">EN</a>',
 
         "registrationButtonText": "Registrierung für Ärzte",
 
