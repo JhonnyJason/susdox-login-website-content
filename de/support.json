@@ -14,7 +14,7 @@
     },
     "content": {
         "headerSubtitle": "Support",
-        "deTagLink": '<a href="/de/support.html">DE</a>',
+        "deTagLink": '<a href="/">DE</a>',
         "enTagLink": '<a href="/en/support.html">EN</a>',
 
         "registrationButtonText": "Registrierung für Ärzte",

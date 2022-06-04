@@ -13,7 +13,7 @@
     },
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
-        "deTagLink": '<a href="/de/">DE</a>',
+        "deTagLink": '<a href="/">DE</a>',
         "enTagLink": '<a href="/en/">EN</a>',
 
         "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
