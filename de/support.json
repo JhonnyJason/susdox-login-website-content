@@ -1,16 +1,16 @@
 {
     "languageTag": "de",
-    "pageTitle": "SusDox Support - Erklärungen und Zugang zum Support für das SusDox System",
+    "pageTitle": "SusDoX Support - Erklärungen und Zugang zum Support für das SusDox System",
     "pageLocale": "de_DE",
     "pageURL": "https://bilder-befunde.at/support",
-    "pageDescription": "Probleme oder Unklarheiten zum SusDox System? Hier gibt es Details und Zugang zum Support.",
+    "pageDescription": "Probleme oder Unklarheiten zum SusDoX System? Hier gibt es Details und Zugang zum Support.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-        "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+        "contentSloganText": "Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
 
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
-        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://bilder-befunde.at/agb.pdf" target="_blank">AGB</a> | <a href="https://www.sustsol.com/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a>'
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="/support.html" target="_blank">Support</a> '
     },
     "content": {
         "headerSubtitle": "Support",
@@ -32,6 +32,6 @@
         "registrationContactPhoneLableText": "Ich bitte um einen Rückruf!",
         "registrationSubmitButtonText": "Registrieren",
 
-        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="/agb.pdf" target="_blank">AGB</a> und die <a href="/nutzungsbedingungen.pdf" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
+        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="https://sustsol.com/agb" target="_blank">AGB</a> und die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
     }
 }

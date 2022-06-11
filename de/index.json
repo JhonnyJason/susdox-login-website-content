@@ -1,15 +1,15 @@
 {
     "languageTag": "de",
-    "pageTitle": "SusDox Login - Radiologische Bilder und Befunde sicher online einsehen",
+    "pageTitle": "SusDoX Login - Radiologische Bilder und Befunde sicher online einsehen",
     "pageLocale": "de_DE",
     "pageURL": "https://bilder-befunde.at",
-    "pageDescription": "SusDox übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+    "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
         "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
-        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://bilder-befunde.at/agb.pdf" target="_blank">AGB</a> | <a href="https://www.sustsol.com/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a>'
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="/support.html" target="_blank">Support</a> '
     },
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
@@ -50,7 +50,7 @@
         "nosvnLoginSubmitButtonText": "Anmelden",
         "nosvnLoginNoAuthcodeHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
 
-        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="/agb.pdf" target="_blank">AGB</a> und die <a href="/nutzungsbedingungen.pdf" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
+        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="https://sustsol.com/agb" target="_blank">AGB</a> und die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
 
     }
 }
