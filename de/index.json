@@ -2,19 +2,19 @@
     "languageTag": "de",
     "pageTitle": "SusDoX Login - Radiologische Bilder und Befunde sicher online einsehen",
     "pageLocale": "de_DE",
-    "pageURL": "https://bilder-befunde.at",
+    "pageURL": "https://bilder-befunde.at/de",
     "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
         "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
-        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="/support.html" target="_blank">Support</a> '
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
     },
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
-        "deTagLink": '<a href="https://susdox-login-dev.extensivlyon.coffee/">DE</a>',
-        "enTagLink": '<a href="https://susdox-login-en-dev.extensivlyon.coffee/">EN</a>',
+        "deTagLink": '<a disabled>DE</a>',
+        "enTagLink": '<a href="en/">EN</a>',
 
         "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
         "doctorsLoginButtonText": "Zugang für Ärzte & Krankenhäuser",

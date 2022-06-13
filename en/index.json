@@ -2,19 +2,19 @@
     "languageTag": "en",
     "pageTitle": "SusDoX Login - View radiological images and reports securely online",
     "pageLocale": "en_US",
-    "pageURL": "https://bilder-befunde.at",
+    "pageURL": "https://bilder-befunde.at/en",
     "pageDescription": "SusDoX takes manages the transmission of documents in the healthcare sector, which ensures the availability of documents during treatment. With SusDoX Webview you can view your images and reports online at any time.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
         "contentSloganText": "With SusDoX Webview you can view your images and reports online at any time.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
-        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Dataprotection</a> | <a href="https://sustsol.com/agb" target="_blank">Conditions</a>  | <a href="/support.html" target="_blank">Support</a> '
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Dataprotection</a> | <a href="https://sustsol.com/agb" target="_blank">Conditions</a>  | <a href="support.html" target="_blank">Support</a> '
     },
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
-        "deTagLink": '<a href="https://susdox-login-dev.extensivlyon.coffee/">DE</a>',
-        "enTagLink": '<a href="https://susdox-login-en-dev.extensivlyon.coffee/">EN</a>',
+        "deTagLink": '<a href="de/">DE</a>',
+        "enTagLink": '<a disabled >EN</a>',
 
         "contentTitleText": "Find your images and reports here",
         "doctorsLoginButtonText": "Access for Doctors and Hospitals",
