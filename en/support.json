@@ -13,7 +13,7 @@
     },
     "content": {
         "headerSubtitle": "Support",
-        "deTagLink": '<a href="de/support.html">DE</a>',
+        "deTagLink": '<a href="../de/support.html">DE</a>',
         "enTagLink": '<a disabled >EN</a>',
 
         "registrationButtonText": "Registration for Doctors",

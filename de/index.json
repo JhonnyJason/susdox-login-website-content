@@ -14,7 +14,7 @@
     "content": {
         "headerSubtitle": "Bilder und Befunde Online",
         "deTagLink": '<a disabled>DE</a>',
-        "enTagLink": '<a href="en/">EN</a>',
+        "enTagLink": '<a href="../en/">EN</a>',
 
         "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
         "doctorsLoginButtonText": "Zugang für Ärzte & Krankenhäuser",
