@@ -51,7 +51,7 @@
         "nosvnLoginAuthcodeLabelText": "AUTH-Code",
         "nosvnLoginSubmitButtonText": "Login",
         "nosvnLoginNoAuthcodeHintText": "You cannot request a code via SMS without an Austrian social security number (e card).<br><br>Please contact your radiologist/institute.",
-        "nosvnLoginErrorText":"No examination was found with the entered AUTH-code!<br>Please check the date of birth and the code or try again later!",
+        "nosvnLoginErrorText":"No examination was found with the entered AUTH-code!<br>Please check the date of birth and the co or try again later!",
 
 
         "agbHintText": 'By clicking Login I accept the <a href="https://sustsol.com/agb" target="_blank">Conditions</a> and the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> of the SustSol GmbH!'

@@ -42,7 +42,7 @@
         "svnLoginNoPinQuestionText": "PIN-Code nicht erhalten oder vergessen?",
         "svnLoginNoPinHintText": "Sie haben bei Ihrer Untersuchung Ihre Handy-Nummer angegeben? Dann können Sie Ihren persönlichen PIN-Code jetzt mit Ihrer Sozialversicherungsnummer anfordern.<br> Sie erhalten diesen per SMS auf Ihr Handy.",
         "svnLoginRenewPinSubmitButtonText": "PIN anfordern",
-        "svnLogin404ErrorText":"Mit der eingegebenen Sozialversichungsnummer wurde (noch) keine Untersuchung gefunden!<br>Bitte überprüfen Sie Ihre Sozialversicherungsnummer oder versuchen Sie es später erneut!",
+        "svnLogin404ErrorText":"Mit der eingegebenen SV-Nummer wurde keine Untersuchung gefunden!<br>Bitte überprüfen Sie Ihre SV-Nummer oder versuchen Sie es später erneut!",
         "svnLogin401ErrorText":"Der eingegebene Code ist leider falsch! Bitte versuchen Sie es erneut!",
 
         "nosvnLoginHeadingText": "Zugang ohne österreichischer SVN <br>(Sozial Versicherungs Nummer)",
