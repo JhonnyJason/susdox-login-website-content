@@ -44,6 +44,7 @@
         "svnLoginRenewPinSubmitButtonText": "Request PIN",
         "svnLogin404ErrorText":"No examination was found with the social security number you entered!<br>Please check your social security number or try again later!",
         "svnLogin401ErrorText":"The entered code is wrong! Please try again!",
+        "pinRenewErrorText":"No examination was found with the social security number you entered!<br>Please check your social security number or try again later!",
 
         "nosvnLoginHeadingText": "Access without Austrian SVN <br>(social insurance number)",
         "nosvnLoginHintText": "You have no SVN (no e-card). You received an AUTH code during your examination",

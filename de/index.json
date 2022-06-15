@@ -44,6 +44,8 @@
         "svnLoginRenewPinSubmitButtonText": "PIN anfordern",
         "svnLogin404ErrorText":"Mit der eingegebenen SV-Nummer wurde keine Untersuchung gefunden!<br>Bitte überprüfen Sie Ihre SV-Nummer oder versuchen Sie es später erneut!",
         "svnLogin401ErrorText":"Der eingegebene Code ist leider falsch! Bitte versuchen Sie es erneut!",
+        "pinRenewErrorText":"Mit der eingegebenen SV-Nummer wurde keine Untersuchung gefunden!<br>Bitte überprüfen Sie Ihre SV-Nummer oder versuchen Sie es später erneut!",
+
 
         "nosvnLoginHeadingText": "Zugang ohne österreichischer SVN <br>(Sozial Versicherungs Nummer)",
         "nosvnLoginHintText": "Sie haben keine SVN (keine e-card). Sie haben bei Ihrer Untersuchung einen AUTH-Code erhalten",
