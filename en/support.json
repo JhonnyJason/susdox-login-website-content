@@ -16,7 +16,8 @@
         "deTagLink": '<a href="../de/support.html">DE</a>',
         "enTagLink": '<a disabled >EN</a>',
 
-        "registrationButtonText": "Registration for Doctors",
+        "doctorregistrationButtonText": "Registration for Doctors",
+        "patientregistrationButtonText": "Registration for Patients",
 
         "registrationHeadingText": "Register here",
         "registrationTitleLableText": "Title:",
@@ -24,12 +25,17 @@
         "registrationLastnameLableText": "Lastname*:",
         "registrationAddressLableText": "Address*:",
         "registrationPLZLableText": "Zip Code Location*:",
+        "registrationBirthdayLableText": "Birthday*:",
         "registrationEmailLableText": "Email*:",
+        "registrationContactEmailLableText": "Please contact me by email!",
         "registrationFaxLableText": "Fax:",
         "registrationContactFaxLableText":"Please send my credentials by fax!",
         "registrationPhoneLableText": "Telephone:",
         "registrationContactPhoneLableText": "Please contact me on my phone!",
+        "registrationOrganizationLableText": "Name of Institute/Radiologist",
+        "registrationMessageLableText": "Message",
         "registrationSubmitButtonText": "Register",
+
 
         "agbHintText": 'By clicking REGISTER I accept the <a href="https://sustsol.com/agb" target="_blank">Conditions</a> and the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> of the SustSol GmbH!'
     }
