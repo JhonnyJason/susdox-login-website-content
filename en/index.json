@@ -42,9 +42,9 @@
         "svnLoginNoPinQuestionText": "No PIN-Code received or forgot it?",
         "svnLoginNoPinHintText": "Did you give your cell phone number during your examination? Then you can now request your personal PIN code with your social security number.<br> You will receive this via SMS on your mobile phone.",
         "svnLoginRenewPinSubmitButtonText": "Request PIN",
-        "svnLogin404ErrorText":"No examination was found with the social security number you entered!<br>Please check your social security number or try again later!",
+        "svnLogin404ErrorText":"The provided credentials donot allow a login!<br>Please check your credentials or try again later!",
         "svnLogin401ErrorText":"The entered code is wrong! Please try again!",
-        "pinRenewErrorText":"No examination was found with the social security number you entered!<br>Please check your social security number or try again later!",
+        "pinRenewErrorText":"The provided credentials donot allow a login!<br>Please check your credentials or try again later!",
 
         "nosvnLoginHeadingText": "Access without Austrian SVN <br>(social insurance number)",
         "nosvnLoginHintText": "You have no SVN (no e-card). You received an AUTH code during your examination",
@@ -52,7 +52,7 @@
         "nosvnLoginAuthcodeLabelText": "AUTH-Code",
         "nosvnLoginSubmitButtonText": "Login",
         "nosvnLoginNoAuthcodeHintText": "You cannot request a code via SMS without an Austrian social security number (e card).<br><br>Please contact your radiologist/institute.",
-        "nosvnLoginErrorText":"No examination was found with the entered AUTH-code!<br>Please check the date of birth and the co or try again later!",
+        "nosvnLoginErrorText":"The provided credentials donot allow a login!<br>Please check your credentials or try again later!",
 
 
         "agbHintText": 'By clicking Login I accept the <a href="https://sustsol.com/agb" target="_blank">Conditions</a> and the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> of the SustSol GmbH!'
