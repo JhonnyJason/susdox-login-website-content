@@ -7,7 +7,8 @@
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-        "contentSloganText": "Mit SusDox Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+        "contentSloganText": "Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde sicher online einsehen.",
+        "doctorSloganText": "Mit SusDoX Webview können Sie jederzeit Bilder und Befunde sicher online einsehen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
     },
@@ -29,17 +30,17 @@
         "doctorloginSubmitButtonText": "Anmelden",
 
         "doctormiscHeadingText": "Login als Arzt mit Patientenzugang",
-        "doctormiscHintText": "Als Arzt habe ich noch keine Zugangsdaten (Username und Passwort) und möchte mit einem <b>PIN/AUTH-CODE</b> des Patienten die Untersuchungen einsehen.",
+        "doctormiscHintText": "Als Arzt habe ich noch keine Zugangsdaten erhalten und möchte mit dem <b>Code</b> des Patienten die Untersuchungen einsehen.",
         "doctormiscContinueText": "Anmelden",
         "doctormiscNoLoginDataText": "Als Arzt habe ich noch keine Zugangsdaten erhalten oder derzeit nicht parat?",
         "doctormiscGetLoginDataLinkText": "Jetzt Anfordern!",
 
-        "codeLoginHeadingText": "Zugang mit Geburtsdatum und Login Code",
-        "codeLoginHintText": "Sie haben eine Sozialversicherungsnummer und einen Login-Code bei Ihrer Untersuchung erhalten",
+        "codeLoginHeadingText": "Zugang mit Geburtsdatum und Code",
+        "codeLoginHintText": "Sie haben bei Ihrer Untersuchung einen Zugangscode erhalten:",
         "codeLoginDateLabelText": "Geb.Datum",
         "codeLoginCodeLabelText": "Code",
         "codeLoginSubmitButtonText": "Anmelden",
-        "codeLoginNoCodeQuestionText": "Login-Code nicht erhalten oder vergessen?",
+        "codeLoginNoCodeQuestionText": "Code nicht erhalten oder vergessen?",
         "codeLoginNoCodeHintText": "Sie haben bei Ihrer Untersuchung Ihre Handy-Nummer angegeben? Dann können Sie Ihren persönlichen Login-Code jetzt mit Ihrer Sozialversicherungsnummer anfordern.<br> Sie erhalten diesen per SMS auf Ihr Handy.",
         "codeLoginRenewCodeSubmitButtonText": "Code anfordern",
         "codeLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
