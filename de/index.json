@@ -47,6 +47,9 @@
         "codeLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
         "codeLoginRenewErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
 
+        "idaustriaLoginHeadingText": "Zugang mit ID Austria",
+        "idaustriaLoginHintText": "Kommt demnächst...",
+
         "compatibilityLoginHeadingText": "Zugang mit PIN-Code und SVN",
         "compatibilityLoginHintText": "Ihre Untersuchung ist länger her und Sie haben statt des Login-Codes einen PIN-Code oder einen AUTH-Code erhalten. Hier können Sie sich wie gewohnt einloggen.",
         "compatibilityLoginSwitchButtonText": "Zum Login",
