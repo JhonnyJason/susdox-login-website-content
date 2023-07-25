@@ -7,8 +7,8 @@
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-        "contentSloganText": "Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde sicher online einsehen.",
-        "doctorSloganText": "Mit SusDoX Webview können Sie jederzeit Bilder und Befunde sicher online einsehen.",
+        "contentSloganText": "Mit SusDoX WebView können Sie jederzeit Ihre Bilder und Befunde sicher online einsehen.",
+        "doctorSloganText": "Mit SusDoX WebView können Sie jederzeit Bilder und Befunde sicher online einsehen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
     },
@@ -17,8 +17,8 @@
         "deTagLink": '<a disabled>DE</a>',
         "enTagLink": '<a href="../en/support.html">EN</a>',
 
-        "doctorregistrationButtonText": "Registrierung für Ärzte",
-        "patientregistrationButtonText": "Registrierung für Patienten",
+        "doctorregistrationButtonText": "Hilfe & Support für Ärzte, Institute, etc.",
+        "patientregistrationButtonText": "Hilfe & Support für Patienten",
 
         "registrationHeadingText": "Hier Registrieren",
         "registrationTitleLableText": "Titel:",
@@ -38,6 +38,6 @@
         "registrationSubmitButtonText": "Registrieren",
 
 
-        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="https://sustsol.com/agb" target="_blank">AGB</a> und die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
+        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
     }
 }
