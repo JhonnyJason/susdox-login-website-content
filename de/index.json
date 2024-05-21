@@ -47,6 +47,8 @@
         "codeLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
         "codeLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
         "codeLoginRenewErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "requestCodePhoneLabel": "Telefonnummer",
+        "requestCodeHintText": "Sie haben bei Ihrer Untersuchung Ihre Handy-Nummer angegeben? Dann können Sie Ihren persönlichen Code mit Angabe Ihres Geburtsdatums anfordern.<br> Sie erhalten diesen per SMS auf Ihr Handy.",
 
         "idaustriaLoginHeadingText": "Zugang mit ID Austria",
         "idaustriaLoginHintText": "Kommt demnächst...",
