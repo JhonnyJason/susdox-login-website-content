@@ -7,8 +7,8 @@
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-        "contentSloganText": "Mit SusDoX WebView können Sie jederzeit Ihre Bilder und Befunde sicher online einsehen.",
-        "doctorSloganText": "Mit SusDoX WebView können Sie jederzeit Bilder und Befunde sicher online einsehen.",
+        "contentSloganText": "Mit SusDoX WebView können Sie Ihre<br>Bilder und Befunde jederzeit online einsehen.",
+        "doctorSloganText": "Mit SusDoX WebView können Sie<br> Bilder und Befunde jederzeit online einsehen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
     },
@@ -17,24 +17,24 @@
         "deTagLink": '<a disabled>DE</a>',
         "enTagLink": '<a href="../en/">EN</a>',
 
-        "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
-        "doctorsLoginButtonText": "Zugang für Ärzte & Institute<br><span>mit Username & Passwort</span>",
-        "patientsLoginButtonText":"Zugang für Patienten<br><span>mit Zugangscode</span>",
+        "contentTitleText": "Finden Sie hier Ihre<br>Bilder & Befunde",
+        "doctorsLoginButtonText": "Zugang für Ärzte & Kliniken",
+        "patientsLoginButtonText":"Zugang für Patienten",
         "supportButtonText": "Support",
         "helpAndSupportButtonText": "Hilfe & Support",
     
-        "doctorloginHeadingText": "Login als Arzt",
+        "doctorloginHeadingText": "LOGIN als ARZT | KLINIK",
         "doctorloginVPNLabelText": "Vertragspartnernummer",
         "doctorloginUsernameLabelText": "Username",
         "doctorloginPasswordLabelText": "Passwort",
         "doctorloginSaveLoginLabelText": "Zugang speichern",
         "doctorloginSubmitButtonText": "Anmelden",
 
-        "doctormiscHeadingText": "Login als Arzt mit Zugangscode",
+        "doctormiscHeadingText": "Zugang mit PATIENTEN-CODE",
         "doctormiscHintText": "Als Arzt habe ich noch keine Zugangsdaten erhalten und möchte mit dem <b>Code</b> des Patienten die Untersuchungen einsehen.",
         "doctormiscContinueText": "Weiter",
         "doctormiscNoLoginDataText": "Als Arzt habe ich meine Zugangsdaten noch nicht erhalten oder vergessen?",
-        "doctormiscGetLoginDataLinkText": "Jetzt anfordern!",
+        "doctormiscGetLoginDataLinkText": "Ärztezugang anfordern,<br>Hilfe & Support",
 
         "codeLoginHeadingText": "Zugang mit Geburtsdatum und Code",
         "codeLoginHintText": "Sie haben bei Ihrer Untersuchung einen Zugangscode erhalten:",
@@ -57,6 +57,7 @@
         "compatibilityLoginHintText": "Ihre Untersuchung ist länger her und Sie haben statt des Login-Codes einen PIN-Code oder einen AUTH-Code erhalten. Hier können Sie sich wie gewohnt einloggen.",
         "compatibilityLoginSwitchButtonText": "Zum Login",
         "copmatibilityLoginNoATHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
+        "compatibilityViewSubtext": "Mit SUSDOX haben Sie Bilder & Befunde einfach, schnell und sicher verfügbar.<br>Mit Ihrem Zugangs-Code können Sie Ärzte Ihrer Wahl selbst berechtigen.",
 
         "svnLoginHeadingText": "Zugang mit SVN + PIN-CODE",
         "svnLoginHintText": "Sie haben eine Sozialversicherungsnummer und einen PIN-Code bei Ihrer Untersuchung erhalten",

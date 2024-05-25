@@ -17,7 +17,7 @@
         "deTagLink": '<a disabled>DE</a>',
         "enTagLink": '<a href="../en/support.html">EN</a>',
 
-        "doctorregistrationButtonText": "Hilfe & Support für Ärzte, Institute, etc.",
+        "doctorregistrationButtonText": "Hilfe & Support für Ärzte, Kliniken, usw.",
         "patientregistrationButtonText": "Hilfe & Support für Patienten",
 
         "registrationHeadingText": "Hier Registrieren",
