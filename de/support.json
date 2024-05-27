@@ -48,8 +48,9 @@
         "registrationOrganizationLabelText": "Wer (Radiologe/Institut)<br> hat Sie untersucht?",
         "registrationMessageLabelText": "Was genau ist Ihre Frage?",
         "registrationSubmitButtonText": "Anfordern",
+        "supportSubmitButtonText": "Absenden",
 
-
+        "supportAGBHintText": 'Mit Klick auf ABSENDEN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!',
         "agbHintText": 'Mit Klick auf ANFORDERN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
     }
 }
