@@ -20,24 +20,36 @@
         "doctorregistrationButtonText": "Hilfe & Support für Ärzte, Kliniken, usw.",
         "patientregistrationButtonText": "Hilfe & Support für Patienten",
 
+
+        "doctorSupportTitle": "Support für Ärzte & Kliniken",
+        "doctorSupportSubText": "Telefonisch sind wir erreichbar unter <a href='tel:06608851001'>0660 8851001</a> oder <a href='tel:06608851000'>0660 8851000</a><br><br>Mo.-Fr.: 08:00 bis 12:00<br> Mo.-Do.: 13:00 bis 16:00",
+        "doctorSupportFormHeadingText": "Anfragen, Zugangsdaten vergessen oder erstmals registrieren:",
+
+        "patientSupportTitle": "Support für Patienten",
+        "patientSupportSubText": "Wir sind bemüht einen bestmöglichen Service zu bieten.<br>Bitte beschreiben Sie uns deshalb möglichst genau Ihr Anliegen.<br><span class='contact-times'>Kontaktzeiten: Mo.-Fr.: 08:00 bis 12:00 | Mo.-Do.: 13:00 bis 16:00</span>",
+        "patientSupportFormHeadingText": "Fragen und Hilfe zu SUSDOX",
+
         "registrationHeadingText": "Hier Registrieren",
-        "registrationTitleLableText": "Titel:",
-        "registrationFirstnameLableText": "Name*:",
-        "registrationLastnameLableText": "Nachname*:",
-        "registrationAddressLableText": "Adresse*:",
-        "registrationPLZLableText": "PLZ Ort*:",
-        "registrationBirthdayLableText": "Geburtsdatum*:",
-        "registrationEmailLableText": "E-Mail*:",
-        "registrationContactEmailLableText": "Ich bitte eine Antwort per E-Mail!",
-        "registrationFaxLableText": "Fax:",
-        "registrationContactFaxLableText":"Ich bitte um meine Zugangsdaten per Fax!",
-        "registrationPhoneLableText": "Telefon:",
-        "registrationContactPhoneLableText": "Ich bitte um einen Rückruf!",
-        "registrationOrganizationLableText": "Name des Institutes/Radiologen",
-        "registrationMessageLableText": "Nachricht",
-        "registrationSubmitButtonText": "Registrieren",
+        "registrationTitleLabelText": "Titel:",
+        "registrationFirstnameLabelText": "Vorname*:",
+        "registrationLastnameLabelText": "Nachname*:",
+        "registrationProfessionLabelText": "Facharzt für:",
+        "registrationContractLabelText": "Vertragspartnernummer:",
+        "registrationAddressLabelText": "Adresse*:",
+        "registrationPLZLabelText": "PLZ Ort*:",
+        "registrationCauseLabelText": "Ihr Anliegen*:",
+        "registrationBirthdayLabelText": "Geburtsdatum*:",
+        "registrationEmailLabelText": "E-Mail*:",
+        "registrationContactEmailLabelText": "Ich bitte eine Antwort per E-Mail!",
+        "registrationFaxLabelText": "Fax:",
+        "registrationContactFaxLabelText":"Ich bitte um meine Zugangsdaten per Fax!",
+        "registrationPhoneLabelText": "Telefon*:",
+        "registrationContactPhoneLabelText": "Ich bitte um einen Rückruf!",
+        "registrationOrganizationLabelText": "Wer (Radiologe/Institut)<br> hat Sie untersucht?",
+        "registrationMessageLabelText": "Was genau ist Ihre Frage?",
+        "registrationSubmitButtonText": "Anfordern",
 
 
-        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
+        "agbHintText": 'Mit Klick auf ANFORDERN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
     }
 }

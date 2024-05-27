@@ -3,12 +3,12 @@
     "pageTitle": "SusDoX Login - Radiologische Bilder und Befunde sicher online einsehen",
     "pageLocale": "de_DE",
     "pageURL": "https://bilder-befunde.at/de",
-    "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX WebView können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+    "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX WebView können Sie Ihre Bilder und Befunde jederzeit online einsehen.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
         "contentSloganText": "Mit SusDoX WebView können Sie Ihre<br>Bilder und Befunde jederzeit online einsehen.",
-        "doctorSloganText": "Mit SusDoX WebView können Sie<br> Bilder und Befunde jederzeit online einsehen.",
+        "doctorSloganText": "Mit SUSDOX haben Sie in der Behandlung Bilder & Befunde<br> einfach, schnell und sicher verfügbar.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
     },
@@ -20,7 +20,7 @@
         "contentTitleText": "Finden Sie hier Ihre<br>Bilder & Befunde",
         "doctorsLoginButtonText": "Zugang für Ärzte & Kliniken",
         "patientsLoginButtonText":"Zugang für Patienten",
-        "supportButtonText": "Support",
+        "supportButtonText": "Hilfe & Support",
         "helpAndSupportButtonText": "Hilfe & Support",
     
         "doctorloginHeadingText": "LOGIN als ARZT | KLINIK",
@@ -65,7 +65,8 @@
         "svnLoginPinLabelText": "PIN-Code",
         "svnLoginSubmitButtonText": "Anmelden",
         "svnLoginNoPinQuestionText": "PIN-Code nicht erhalten oder vergessen?",
-        "svnLoginNoPinHintText": "Sie haben bei Ihrer Untersuchung Ihre Handy-Nummer angegeben? Dann können Sie Ihren persönlichen PIN-Code jetzt mit Ihrer Sozialversicherungsnummer anfordern.<br> Sie erhalten diesen per SMS auf Ihr Handy.",
+        "svnLoginNoPinTitleButtonText": "SUSDOX-Code vergessen<br>-> neu anfordern",
+        "svnLoginNoPinHintText": "Sie können den Code neu anfordern und erhalten diesen per SMS.<br><br><b>Voraussetzung</b>: Sie haben bei Ihrer radiologischen Untersuchung Ihre Mobilnummer angegeben.",
         "svnLoginRenewPinSubmitButtonText": "Code anfordern",
         "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
         "svnLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
