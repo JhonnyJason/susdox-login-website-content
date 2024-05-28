@@ -3,40 +3,53 @@
     "pageTitle": "SusDoX Support - Explanations and access to support for the SusDoX system",
     "pageLocale": "en_US",
     "pageURL": "https://bilder-befunde.at/en/support.html",
-    "pageDescription": "Problems or ambiguities about the SusDoX system? Here are details and access to support.",
+    "pageDescription": "Problems or uncertainties with the SusDoX system? Find details and access to support here.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-        "contentSloganText": "With SusDoX WebView you can view your images and reports online at any time.",
+        "contentSloganText": "With SusDoX WebView, you can securely view your images and reports online at any time.",
+        "doctorSloganText": "With SusDoX WebView, you can securely view images and reports online at any time.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
-        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Dataprotection</a> | <a href="https://sustsol.com/agb" target="_blank">Conditions</a>  | <a href="support.html" target="_blank">Support</a> '
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Imprint</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Privacy Policy</a> | <a href="https://sustsol.com/agb" target="_blank">GTC</a> | <a href="support.html" target="_blank">Support</a>'
     },
     "content": {
         "headerSubtitle": "Support",
         "deTagLink": '<a href="../de/support.html">DE</a>',
-        "enTagLink": '<a disabled >EN</a>',
+        "enTagLink": '<a disabled>EN</a>',
 
-        "doctorregistrationButtonText": "Registration for Doctors",
-        "patientregistrationButtonText": "Registration for Patients",
+        "doctorregistrationButtonText": "Help & Support for Doctors, Clinics, etc.",
+        "patientregistrationButtonText": "Help & Support for Patients",
 
-        "registrationHeadingText": "Register here",
+        "doctorSupportTitle": "Support for Doctors & Clinics",
+        "doctorSupportSubText": "You can reach us by phone at <a href='tel:06608851001'>0660 8851001</a> or <a href='tel:06608851000'>0660 8851000</a><br><br>Mon-Fri: 08:00 to 12:00<br> Mon-Thu: 13:00 to 16:00",
+        "doctorSupportFormHeadingText": "Inquiries, forgotten login details, or first-time registration:",
+
+        "patientSupportTitle": "Support for Patients",
+        "patientSupportSubText": "We strive to provide the best possible service.<br>Please describe your concern as precisely as possible.<br><span class='contact-times'>Contact times: Mon-Fri: 08:00 to 12:00 | Mon-Thu: 13:00 to 16:00</span>",
+        "patientSupportFormHeadingText": "Questions and help with SUSDOX",
+
+        "registrationHeadingText": "Register Here",
         "registrationTitleLabelText": "Title:",
-        "registrationFirstnameLabelText": "Firstname*:",
-        "registrationLastnameLabelText": "Lastname*:",
+        "registrationFirstnameLabelText": "First Name*:",
+        "registrationLastnameLabelText": "Last Name*:",
+        "registrationProfessionLabelText": "Specialist in:",
+        "registrationContractLabelText": "Contract Partner Number:",
         "registrationAddressLabelText": "Address*:",
-        "registrationPLZLabelText": "Zip Code Location*:",
-        "registrationBirthdayLabelText": "Birthday*:",
+        "registrationPLZLabelText": "ZIP Code City*:",
+        "registrationCauseLabelText": "Your Concern*:",
+        "registrationBirthdayLabelText": "Date of Birth*:",
         "registrationEmailLabelText": "Email*:",
-        "registrationContactEmailLabelText": "Please contact me by email!",
+        "registrationContactEmailLabelText": "Please respond via email!",
         "registrationFaxLabelText": "Fax:",
-        "registrationContactFaxLabelText":"Please send my credentials by fax!",
-        "registrationPhoneLabelText": "Telephone:",
-        "registrationContactPhoneLabelText": "Please contact me on my phone!",
-        "registrationOrganizationLabelText": "Name of Institute/Radiologist",
-        "registrationMessageLabelText": "Message",
-        "registrationSubmitButtonText": "Register",
+        "registrationContactFaxLabelText": "Please send my login details via fax!",
+        "registrationPhoneLabelText": "Phone*:",
+        "registrationContactPhoneLabelText": "Please call me back!",
+        "registrationOrganizationLabelText": "Who (Radiologist/Institute)<br> examined you?",
+        "registrationMessageLabelText": "What exactly is your question?",
+        "registrationSubmitButtonText": "Request",
+        "supportSubmitButtonText": "Submit",
 
-
-        "agbHintText": 'By clicking REGISTER I accept the <a href="https://sustsol.com/agb" target="_blank">Conditions</a> and the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> of the SustSol GmbH!'
+        "supportAGBHintText": 'By clicking SUBMIT, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a> of SustSol GmbH!',
+        "agbHintText": 'By clicking REQUEST, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a> of SustSol GmbH!'
     }
 }
