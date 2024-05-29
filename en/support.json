@@ -49,6 +49,10 @@
         "registrationSubmitButtonText": "Request",
         "supportSubmitButtonText": "Submit",
 
+        
+        "patientsupportSuccessMessage":"Thank you for your message.<br>We will process it as quickly as possible and get back to you!",
+        "doctorsupportSuccessMessage":"Thank you for your message.<br>We will process it as quickly as possible and get back to you!",
+
         "supportAGBHintText": 'By clicking SUBMIT, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a> of SustSol GmbH!',
         "agbHintText": 'By clicking REQUEST, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a> of SustSol GmbH!'
     }
