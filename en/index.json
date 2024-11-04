@@ -17,7 +17,7 @@
         "deTagLink": '<a href="../de/">DE</a>',
         "enTagLink": '<a disabled>EN</a>',
 
-        "contentTitleText": "Find your<br>Images & Reports here",
+        "contentTitleText": "Find your<br>Images & Reports",
         "doctorsLoginButtonText": "Access for Doctors & Clinics",
         "patientsLoginButtonText":"Access for Patients",
         "supportButtonText": "Help & Support",

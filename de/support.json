@@ -22,7 +22,7 @@
 
 
         "doctorSupportTitle": "Support für Ärzte & Kliniken",
-        "doctorSupportSubText": "Telefonisch sind wir erreichbar unter <a href='tel:06608851001'>0660 8851001</a> oder <a href='tel:06608851000'>0660 8851000</a><br><br>Mo.-Fr.: 08:00 bis 12:00<br> Mo.-Do.: 13:00 bis 16:00",
+        "doctorSupportSubText": "Telefonisch sind wir erreichbar unter <a href='tel:06608851001'>0660 8851001</a> oder <a href='tel:06608851000'>0660 8851000</a><br><span class='contact-times'>Kontaktzeiten: Mo.-Fr.: 08:00 bis 12:00 | Mo.-Do.: 13:00 bis 16:00</span>",
         "doctorSupportFormHeadingText": "Anfragen, Zugangsdaten vergessen oder erstmals registrieren:",
 
         "patientSupportTitle": "Support für Patienten",
@@ -43,9 +43,9 @@
         "registrationContactEmailLabelText": "Ich bitte um eine Antwort per E-Mail!",
         "registrationFaxLabelText": "Fax:",
         "registrationContactFaxLabelText":"Ich bitte um meine Zugangsdaten per Fax!",
-        "registrationPhoneLabelText": "Telefon*:",
+        "registrationPhoneLabelText": "Telefon:",
         "registrationContactPhoneLabelText": "Ich bitte um einen Rückruf!",
-        "registrationOrganizationLabelText": "Wer (Radiologe/Institut)<br> hat Sie untersucht?",
+        "registrationOrganizationLabelText": "Wer (Radiologe/Institut)<br> hat Sie untersucht?*",
         "registrationMessageLabelText": "Was genau ist Ihre Frage?",
         "registrationSubmitButtonText": "Anfordern",
         "supportSubmitButtonText": "Absenden",

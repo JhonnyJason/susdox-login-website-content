@@ -8,7 +8,8 @@
     "pageType": "website",
     "sharedContent": {
         "contentSloganText": "Mit SusDoX WebView können Sie Ihre<br>Bilder und Befunde jederzeit online einsehen.",
-        "doctorSloganText": "Mit SUSDOX haben Sie in der Behandlung Bilder & Befunde<br> einfach, schnell und sicher verfügbar.",
+        "doctorSloganText": "Mit SUSDOX haben Sie in der Behandlung Bilder & Befunde einfach, schnell und sicher verfügbar.",
+        "patientSloganText": "Mit Ihrem Code haben Sie Bilder & Befunde immer verfügbar und können Ärzte ihrer Wahl selbst berechtigen.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
     },
@@ -18,6 +19,7 @@
         "enTagLink": '<a href="../en/">EN</a>',
 
         "contentTitleText": "Finden Sie hier Ihre<br>Bilder & Befunde",
+        "serviceNotice": "SusDoX ist ein Service der <a href='https://www.sustsol.com' target='_blank'>SustSol GmbH</a>",
         "doctorsLoginButtonText": "Zugang für Ärzte & Kliniken",
         "patientsLoginButtonText":"Zugang für Patienten",
         "supportButtonText": "Hilfe & Support",

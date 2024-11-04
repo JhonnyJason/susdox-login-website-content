@@ -42,7 +42,7 @@
         "registrationContactEmailLabelText": "Please respond via email!",
         "registrationFaxLabelText": "Fax:",
         "registrationContactFaxLabelText": "Please send my login details via fax!",
-        "registrationPhoneLabelText": "Phone*:",
+        "registrationPhoneLabelText": "Phone:",
         "registrationContactPhoneLabelText": "Please call me back!",
         "registrationOrganizationLabelText": "Who (Radiologist/Institute)<br> examined you?",
         "registrationMessageLabelText": "What exactly is your question?",
