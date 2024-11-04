@@ -8,7 +8,8 @@
     "pageType": "website",
     "sharedContent": {
         "contentSloganText": "With SusDoX WebView, you can view your<br>images and reports online at any time.",
-        "doctorSloganText": "With SUSDOX, you have images & reports<br>available simply, quickly, and securely during treatment.",
+        "doctorSloganText": "With SUSDOX, you have images & reports available simply, quickly, and securely during treatment.",
+        "patientSloganText": "With your code, you always have access to images & reports and can personally authorize doctors of your choice.",
         "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Imprint</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Privacy Policy</a> | <a href="https://sustsol.com/agb" target="_blank">GTC</a> | <a href="support.html" target="_blank">Support</a>'
     },
@@ -18,6 +19,7 @@
         "enTagLink": '<a disabled>EN</a>',
 
         "contentTitleText": "Find your<br>Images & Reports",
+        "serviceNotice": "SusDoX is a Service of <a href='https://www.sustsol.com' target='_blank'>SustSol GmbH</a>",
         "doctorsLoginButtonText": "Access for Doctors & Clinics",
         "patientsLoginButtonText":"Access for Patients",
         "supportButtonText": "Help & Support",
@@ -57,7 +59,7 @@
         "compatibilityLoginHintText": "Your examination was a while ago and you received a PIN code or an AUTH code instead of the login code. You can log in as usual here.",
         "compatibilityLoginSwitchButtonText": "To Login",
         "copmatibilityLoginNoATHintText": "Without an Austrian social security number (e-card), you cannot request a code via SMS.<br><br>Please contact your radiologist/institute.",
-        "compatibilityViewSubtext": "With SUSDOX, you have images & reports simply, quickly, and securely available.<br>With your access code, you can authorize doctors of your choice yourself.",
+        "compatibilityViewSubtext": "With SUSDOX, you have images & reports simply, quickly, and securely available. With your access code, you can authorize doctors of your choice yourself.",
 
         "svnLoginHeadingText": "Access with SSN + PIN CODE",
         "svnLoginHintText": "You have a social security number and received a PIN code during your examination",

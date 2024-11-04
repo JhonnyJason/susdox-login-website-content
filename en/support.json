@@ -21,7 +21,7 @@
         "patientregistrationButtonText": "Help & Support for Patients",
 
         "doctorSupportTitle": "Support for Doctors & Clinics",
-        "doctorSupportSubText": "You can reach us by phone at <a href='tel:06608851001'>0660 8851001</a> or <a href='tel:06608851000'>0660 8851000</a><br><br>Mon-Fri: 08:00 to 12:00<br> Mon-Thu: 13:00 to 16:00",
+        "doctorSupportSubText": "You can reach us by phone at <a href='tel:06608851001'>0660 8851001</a> or <a href='tel:06608851000'>0660 8851000</a><br><span class='contact-times'>Contact times: Mon-Fri: 08:00 to 12:00 | Mon-Thu: 13:00 to 16:00</span>",
         "doctorSupportFormHeadingText": "Inquiries, forgotten login details, or first-time registration:",
 
         "patientSupportTitle": "Support for Patients",
