@@ -27,7 +27,7 @@
     
         "doctorloginHeadingText": "Zugang als ARZT | KLINIK",
         "doctorloginVPNLabelText": "Vertragspartnernummer",
-        "doctorloginUsernameLabelText": "Username",
+        "doctorloginUsernameLabelText": "Benutzername",
         "doctorloginPasswordLabelText": "Passwort",
         "doctorloginSaveLoginLabelText": "Zugang speichern",
         "doctorloginSubmitButtonText": "Anmelden",
@@ -36,7 +36,7 @@
         "doctormiscHintText": "Als Arzt habe ich noch keine Zugangsdaten erhalten und möchte mit dem <b>Code</b> des Patienten die Untersuchungen einsehen.",
         "doctormiscContinueText": "Weiter",
         "doctormiscNoLoginDataText": "Als Arzt habe ich meine Zugangsdaten noch nicht erhalten oder vergessen?",
-        "doctormiscGetLoginDataLinkText": "Zugang für Ärzte oder Klinken anfordern<br>Hilfe & Support",
+        "doctormiscGetLoginDataLinkText": "Zugang für Ärzte oder Kliniken anfordern<br>Hilfe & Support",
 
         "codeLoginHeadingText": "Zugang mit Geburtsdatum und Code",
         "codeLoginHintText": "Sie haben bei Ihrer Untersuchung einen Zugangscode erhalten:",
