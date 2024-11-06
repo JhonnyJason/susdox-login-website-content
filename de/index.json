@@ -55,7 +55,7 @@
         "idaustriaLoginHeadingText": "Zugang mit ID Austria",
         "idaustriaLoginHintText": "Kommt demnächst...",
 
-        "compatibilityLoginHeadingText": "Zugang mit PIN-Code und SVN",
+        "compatibilityLoginHeadingText": "Zugang mit PIN-Code und SVNR",
         "compatibilityLoginHintText": "Ihre Untersuchung ist länger her und Sie haben statt des Login-Codes einen PIN-Code oder einen AUTH-Code erhalten. Hier können Sie sich wie gewohnt einloggen.",
         "compatibilityLoginSwitchButtonText": "Zum Login",
         "copmatibilityLoginNoATHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
@@ -63,7 +63,7 @@
 
         "svnLoginHeadingText": "Ich habe eine österreichische Sozialversicherungsnummer:",
         "svnLoginHintText": "Sie haben eine Sozialversicherungsnummer und einen PIN-Code bei Ihrer Untersuchung erhalten",
-        "svnLoginSVNLabelText": "SVN + Geb.Datum",
+        "svnLoginSVNLabelText": "SVNR + Geb.Datum",
         "svnLoginPinLabelText": "PIN-Code",
         "svnLoginSubmitButtonText": "Anmelden",
         "svnLoginNoPinQuestionText": "PIN-Code nicht erhalten oder vergessen?",
@@ -75,7 +75,7 @@
         "pinRenewErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
 
         "nosvnLoginHeadingText": "Ich habe <span style='text-decoration:underline;'>KEINE</span> österreichische Sozialversicherungsnummer:",
-        "nosvnLoginHintText": "Sie haben keine SVN (keine e-card). Sie haben bei Ihrer Untersuchung einen AUTH-Code erhalten",
+        "nosvnLoginHintText": "Sie haben keine SVNR (keine e-card). Sie haben bei Ihrer Untersuchung einen AUTH-Code erhalten",
         "nosvnLoginBirthdayLabelText": "Geburtsdatum",
         "nosvnLoginAuthcodeLabelText": "AUTH-Code",
         "nosvnLoginSubmitButtonText": "Anmelden",
