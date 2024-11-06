@@ -25,7 +25,7 @@
         "supportButtonText": "Help & Support",
         "helpAndSupportButtonText": "Help & Support",
     
-        "doctorloginHeadingText": "LOGIN as DOCTOR | CLINIC",
+        "doctorloginHeadingText": "Access for DOCTOR | CLINIC",
         "doctorloginVPNLabelText": "Contract Partner Number",
         "doctorloginUsernameLabelText": "Username",
         "doctorloginPasswordLabelText": "Password",
@@ -36,7 +36,7 @@
         "doctormiscHintText": "As a doctor, I have not yet received my login details and want to view the examinations with the <b>code</b> of the patient.",
         "doctormiscContinueText": "Continue",
         "doctormiscNoLoginDataText": "As a doctor, I have not yet received or forgotten my login details?",
-        "doctormiscGetLoginDataLinkText": "Request doctor access,<br>Help & Support",
+        "doctormiscGetLoginDataLinkText": "Request access for doctors & clinics<br>Help & Support",
 
         "codeLoginHeadingText": "Access with Date of Birth and Code",
         "codeLoginHintText": "You received an access code during your examination:",
@@ -61,20 +61,20 @@
         "copmatibilityLoginNoATHintText": "Without an Austrian social security number (e-card), you cannot request a code via SMS.<br><br>Please contact your radiologist/institute.",
         "compatibilityViewSubtext": "With SUSDOX, you have images & reports simply, quickly, and securely available. With your access code, you can authorize doctors of your choice yourself.",
 
-        "svnLoginHeadingText": "Access with SSN + PIN CODE",
+        "svnLoginHeadingText": "I have an austrian Social Security Number:",
         "svnLoginHintText": "You have a social security number and received a PIN code during your examination",
         "svnLoginSVNLabelText": "SSN + Date of Birth",
         "svnLoginPinLabelText": "PIN Code",
         "svnLoginSubmitButtonText": "Login",
         "svnLoginNoPinQuestionText": "Didn't receive or forgot the PIN code?",
-        "svnLoginNoPinTitleButtonText": "Forgot SUSDOX code<br>-> request new one",
+        "svnLoginNoPinTitleButtonText": "I don't have the SusDoX Code?<br>-> Request here",
         "svnLoginNoPinHintText": "You can request a new code and receive it via SMS.<br><br><b>Requirement</b>: You provided your mobile number during your radiological examination.",
         "svnLoginRenewPinSubmitButtonText": "Request Code",
         "svnLogin404ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
         "svnLogin401ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
         "pinRenewErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
 
-        "nosvnLoginHeadingText": "Access without Austrian SSN <br>(Social Security Number)",
+        "nosvnLoginHeadingText": "I <span style='textdecoration: underline;'>DON'T</span> have an austrian Social Security Number:",
         "nosvnLoginHintText": "You don't have an SSN (no e-card). You received an AUTH code during your examination",
         "nosvnLoginBirthdayLabelText": "Date of Birth",
         "nosvnLoginAuthcodeLabelText": "AUTH Code",
@@ -82,6 +82,6 @@
         "nosvnLoginNoAuthcodeHintText": "Without an Austrian social security number (e-card), you cannot request a code via SMS.<br><br>Please contact your radiologist/institute.",
         "nosvnLoginErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
 
-        "agbHintText": 'By clicking LOGIN, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a> of SustSol GmbH!'
+        "agbHintText": 'By clicking Login, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a>.'
     }
 }

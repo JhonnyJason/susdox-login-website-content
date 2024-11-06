@@ -67,7 +67,7 @@
         "svnLoginPinLabelText": "PIN-Code",
         "svnLoginSubmitButtonText": "Anmelden",
         "svnLoginNoPinQuestionText": "PIN-Code nicht erhalten oder vergessen?",
-        "svnLoginNoPinTitleButtonText": "Ich habe den SusDoX Code nicht mehr?        <br>-> Hier anfordern",
+        "svnLoginNoPinTitleButtonText": "Ich habe den SusDoX Code nicht mehr?<br>-> Hier anfordern",
         "svnLoginNoPinHintText": "Sie können den Code neu anfordern und erhalten diesen per SMS.<br><br><b>Voraussetzung</b>: Sie haben bei Ihrer radiologischen Untersuchung Ihre Mobilnummer angegeben.",
         "svnLoginRenewPinSubmitButtonText": "Code anfordern",
         "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
@@ -82,7 +82,7 @@
         "nosvnLoginNoAuthcodeHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
         "nosvnLoginErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
 
-        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a>'
+        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a>.'
 
     }
 }
