@@ -74,7 +74,7 @@
         "svnLogin401ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
         "pinRenewErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
 
-        "nosvnLoginHeadingText": "I <span style='textdecoration: underline;'>DON'T</span> have an austrian Social Security Number:",
+        "nosvnLoginHeadingText": "I <span style='text-decoration:underline;'>DON'T</span> have an austrian Social Security Number:",
         "nosvnLoginHintText": "You don't have an SSN (no e-card). You received an AUTH code during your examination",
         "nosvnLoginBirthdayLabelText": "Date of Birth",
         "nosvnLoginAuthcodeLabelText": "AUTH Code",
