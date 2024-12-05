@@ -72,7 +72,8 @@
         "svnLoginRenewPinSubmitButtonText": "Code anfordern",
         "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
         "svnLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
-        "pinRenewErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "pinRenewErrorText":"Mit den eingegebenen Daten ist kein SMS Versand möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "requestCodeSuccessText": "Ein SMS mit dem Code wurde gerade an die eingegebene Nummer verschickt",
 
         "nosvnLoginHeadingText": "Ich habe <span style='text-decoration:underline;'>KEINE</span> österreichische Sozialversicherungsnummer:",
         "nosvnLoginHintText": "Sie haben keine SVNR (keine e-card). Sie haben bei Ihrer Untersuchung einen AUTH-Code erhalten",

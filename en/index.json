@@ -72,7 +72,8 @@
         "svnLoginRenewPinSubmitButtonText": "Request Code",
         "svnLogin404ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
         "svnLogin401ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
-        "pinRenewErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
+        "pinRenewErrorText":"Sending a text message is not possible with the provided data!<br>Please check your inputs or try again later!",
+        "requestCodeSuccessText": "A text message with the Code has just been sent to the entered number.",
 
         "nosvnLoginHeadingText": "I <span style='text-decoration:underline;'>DON'T</span> have an austrian Social Security Number:",
         "nosvnLoginHintText": "You don't have an SSN (no e-card). You received an AUTH code during your examination",
