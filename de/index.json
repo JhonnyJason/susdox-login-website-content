@@ -61,7 +61,7 @@
         "copmatibilityLoginNoATHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
         "compatibilityViewSubtext": "Mit SUSDOX haben Sie Bilder & Befunde einfach, schnell und sicher verfügbar.<br>Mit Ihrem Zugangs-Code können Sie Ärzte Ihrer Wahl selbst berechtigen.",
 
-        "svnLoginHeadingText": "Ich habe eine österreichische Sozialversicherungsnummer:",
+        "svnLoginHeadingText": "Login für Patienten:",
         "svnLoginHintText": "Sie haben eine Sozialversicherungsnummer und einen PIN-Code bei Ihrer Untersuchung erhalten",
         "svnLoginSVNLabelText": "SVNR + Geb.Datum",
         "svnLoginPinLabelText": "PIN-Code",
