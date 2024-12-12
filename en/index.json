@@ -61,7 +61,7 @@
         "copmatibilityLoginNoATHintText": "Without an Austrian social security number (e-card), you cannot request a code via SMS.<br><br>Please contact your radiologist/institute.",
         "compatibilityViewSubtext": "With SUSDOX, you have images & reports simply, quickly, and securely available. With your access code, you can authorize doctors of your choice yourself.",
 
-        "svnLoginHeadingText": "Login as Patient:",
+        "svnLoginHeadingText": "LOGIN as Patient:",
         "svnLoginHintText": "You have a social security number and received a PIN code during your examination",
         "svnLoginSVNLabelText": "SSN + Date of Birth",
         "svnLoginPinLabelText": "PIN Code",
@@ -75,7 +75,7 @@
         "pinRenewErrorText":"Sending a text message is not possible with the provided data!<br>Please check your inputs or try again later!",
         "requestCodeSuccessText": "A text message with the Code has just been sent to the entered number.",
 
-        "nosvnLoginHeadingText": " Login as Patient<span style='text-decoration:underline;'>WITHOUT</span> an austrian Social Security Number:",
+        "nosvnLoginHeadingText": "Login <span style='text-decoration:underline;'>WITHOUT</span> an austrian Social Security Number:",
         "nosvnLoginHintText": "You don't have an SSN (no e-card). You received an AUTH code during your examination",
         "nosvnLoginBirthdayLabelText": "Date of Birth",
         "nosvnLoginAuthcodeLabelText": "AUTH Code",
