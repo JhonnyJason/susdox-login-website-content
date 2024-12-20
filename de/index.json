@@ -2,6 +2,11 @@
     "languageTag": "de",
     "pageTitle": "SusDoX Login - Radiologische Bilder und Befunde sicher online einsehen",
     "pageLocale": "de_DE",
+    "alternateLangs": [
+        {"lang":"de", "url":"https://bilder-befunde.at/de"},
+        {"lang":"en", "url":"https://bilder-befunde.at/en"}
+    ],
+    "xDefault": "https://bilder-befunde.at/de",
     "pageURL": "https://bilder-befunde.at/de",
     "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX WebView können Sie Ihre Bilder und Befunde jederzeit online einsehen.",
     "pageImageURL": "https://bilder-befunde.at/img/icon.png",
