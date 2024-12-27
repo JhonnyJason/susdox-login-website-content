@@ -30,7 +30,20 @@
         "doctorSupportSubText": "Telefonisch sind wir erreichbar unter <a href='tel:06608851001'>0660 8851001</a> oder <a href='tel:06608851000'>0660 8851000</a><br><span class='contact-times'>Kontaktzeiten: Mo.-Fr.: 08:00 bis 12:00 | Mo.-Do.: 13:00 bis 16:00</span>",
         "doctorSupportFormHeadingText": "Anfragen, Zugangsdaten vergessen oder erstmals registrieren:",
 
+
+        "svnLoginNoPinTitleButtonText": "Ich habe den SusDoX Code nicht mehr?<br>-> Hier anfordern",
+        "codeLoginDateLabelText": "Geb.Datum",
+        "requestCodePhoneLabel": "Telefonnummer",
+        "svnLoginRenewPinSubmitButtonText": "Code anfordern",
+
+        "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "svnLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "pinRenewErrorText":"Mit den eingegebenen Daten ist kein SMS Versand möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "requestCodeSuccessText": "Ein SMS mit dem Code wurde gerade an die eingegebene Nummer verschickt",
+
+
         "patientSupportTitle": "Support für Patienten",
+        "patientSupportFurtherQuestionsText": "Sie haben weitere Fragen?",
         "patientSupportSubText": "Wir sind bemüht einen bestmöglichen Service zu bieten.<br>Bitte beschreiben Sie uns deshalb möglichst genau Ihr Anliegen.<br><span class='contact-times'>Kontaktzeiten: Mo.-Fr.: 08:00 bis 12:00 | Mo.-Do.: 13:00 bis 16:00</span>",
         "patientSupportFormHeadingText": "Fragen und Hilfe zu SUSDOX",
 
