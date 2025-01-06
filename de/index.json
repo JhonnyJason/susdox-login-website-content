@@ -8,6 +8,7 @@
     ],
     "xDefault": "https://bilder-befunde.at/de/index.html",
     "pageURL": "https://bilder-befunde.at/de/index.html",
+    "pageRoot": "https://bilder-befunde.at/de/",
     "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX WebView können Sie Ihre Bilder und Befunde jederzeit online einsehen.",
     "pageImageURL": "https://bilder-befunde.at/de/img/icon.png",
     "pageType": "website",
