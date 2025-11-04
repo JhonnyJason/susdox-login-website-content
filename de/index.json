@@ -74,6 +74,7 @@
         "svnLoginSubmitButtonText": "Anmelden",
         "svnLoginNoPinQuestionText": "PIN-Code nicht erhalten oder vergessen?",
         "svnLoginNoPinTitleButtonText": "Ich habe den SusDoX Code nicht mehr?<br>-> Hier anfordern",
+        "svnLoginNoPinPhoneNumberHintText": "(z.B: 0664 12345678<br>od. 0049 172 12345678)",
         "svnLoginNoPinHintText": "Sie können den Code neu anfordern und erhalten diesen per SMS.<br><br><b>Voraussetzung</b>: Sie haben bei Ihrer radiologischen Untersuchung Ihre Mobilnummer angegeben.",
         "svnLoginRenewPinSubmitButtonText": "Code anfordern",
         "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",

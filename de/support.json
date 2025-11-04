@@ -35,6 +35,7 @@
         "svnLoginNoPinTitleButtonText": "Ich habe den SusDoX Code nicht mehr?<br>-> Hier anfordern",
         "codeLoginDateLabelText": "Geb.Datum",
         "requestCodePhoneLabel": "Telefonnummer",
+        "svnLoginNoPinPhoneNumberHintText": "(z.B: 0664 12345678<br>od. 0049 172 12345678)",
         "svnLoginRenewPinSubmitButtonText": "Code anfordern",
 
         "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",

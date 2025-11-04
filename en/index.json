@@ -74,6 +74,7 @@
         "svnLoginSubmitButtonText": "Login",
         "svnLoginNoPinQuestionText": "Didn't receive or forgot the PIN code?",
         "svnLoginNoPinTitleButtonText": "I don't have the SusDoX Code?<br>-> Request here",
+        "svnLoginNoPinPhoneNumberHintText": "(e.g. 0664 12345678<br>or 0049 172 12345678)",
         "svnLoginNoPinHintText": "You can request a new code and receive it via SMS.<br><br><b>Requirement</b>: You provided your mobile number during your radiological examination.",
         "svnLoginRenewPinSubmitButtonText": "Request Code",
         "svnLogin404ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",

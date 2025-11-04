@@ -33,6 +33,7 @@
         "svnLoginNoPinTitleButtonText": "I don't have the SusDoX Code?<br>-> Request here",
         "codeLoginDateLabelText": "Date of Birth",
         "requestCodePhoneLabel": "Phone Number",
+        "svnLoginNoPinPhoneNumberHintText": "(e.g. 0664 12345678<br>or 0049 172 12345678)",
         "svnLoginRenewPinSubmitButtonText": "Request Code",
 
         "svnLogin404ErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
