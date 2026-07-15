@@ -28,7 +28,9 @@
         "serviceNotice": "SusDoX is a Service of <a href='https://www.sustsol.com' target='_blank'>SustSol GmbH</a>",
         "doctorsLoginButtonText": "Access for Doctors & Clinics",
         "patientsLoginButtonText":"Access for Patients",
+        "susdoxShareLoginButtonText":"Access SusDoXShare",
         "supportButtonText": "Help & Support",
+        "supportButtonSmallText": "Help",
         "helpAndSupportButtonText": "Help & Support",
     
         "doctorloginHeadingText": "Access for DOCTOR | CLINIC",
@@ -89,6 +91,8 @@
         "nosvnLoginSubmitButtonText": "Login",
         "nosvnLoginNoAuthcodeHintText": "Without an Austrian social security number (e-card), you cannot request a code via SMS.<br><br>Please contact your radiologist/institute.",
         "nosvnLoginErrorText":"Login with the provided data is not possible!<br>Please check your inputs or try again later!",
+
+        "susdoxShareCodeLabelText": "Code",
 
         "agbHintText": 'By clicking Login, I accept the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">terms of use</a>.'
     }
